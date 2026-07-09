@@ -1,0 +1,13 @@
+{
+  "id": "animeav1-direct",
+  "name": "AnimeAV1 (scraping directo)",
+  "description": "Reproduce anime desde AnimeAV1 sin backend externo",
+  "version": "1.0.0",
+  "author": "TuNombre",
+  "type": "onlinestream-provider",
+  "language": "javascript",
+  "payload": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/animeav1-direct.js",
+  "userConfig": {
+    "requiresConfig": false
+  }
+}
