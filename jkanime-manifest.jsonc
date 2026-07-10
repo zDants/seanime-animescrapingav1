@@ -2,7 +2,7 @@
   "id": "jkanime-es",
   "name": "JKAnime (ES)",
   "description": "Proveedor de streaming para JKAnime con subtítulos en español, basado en la lógica de ani-es.",
-  "manifestURI": "https://raw.githubusercontent.com/hashiruta/seanime-animeav1/main/src/jkanime/manifest.jsonc",
+  "manifestURI": "https://raw.githubusercontent.com/zDants/seanime-animescrapingav1/refs/heads/main/jkanime-manifest.jsonc",
   "version": "0.1.0",
   "author": "Hashiruta",
   "type": "onlinestream-provider",
