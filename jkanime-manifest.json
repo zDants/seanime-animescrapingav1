@@ -2,7 +2,7 @@
   "id": "Jkanime",
   "name": "JKAnime (Español)",
   "description": "Anime sub/latino en español vía AnimeAV1.com — extensión no oficial, de la comunidad.",
-  "manifestURI": "https://raw.githubusercontent.com/hashiruta/seanime-animeav1/main/src/jkanime/manifest.jsonc",
+  "manifestURI": "https://raw.githubusercontent.com/hashiruta/seanime-animeav1/main/src/jkanime/manifest.json",
   "version": "0.1.0",
   "author": "9ymw en discord",
   "type": "onlinestream-provider",
