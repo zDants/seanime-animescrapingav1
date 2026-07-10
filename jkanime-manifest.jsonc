@@ -8,5 +8,5 @@
   "type": "onlinestream-provider",
   "language": "javascript",
   "lang": "es",
-  "payloadURI": "https://raw.githubusercontent.com/hashiruta/seanime-animeav1/main/src/jkanime/provider.js"
+  "payloadURI": "https://raw.githubusercontent.com/zDants/seanime-animescrapingav1/refs/heads/main/jkanime-provider.js"
 }
